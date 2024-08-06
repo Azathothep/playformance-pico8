@@ -1,7 +1,7 @@
 # playformance-pico8
 A particule simulation system on pico8 for a playformance held in 2024
 
-This is a pico8 program designed for a playformance I originally gave in lyon in 2024 (more info on [felix-belthoise.com](www.felix-belthoise.com))
+This is a pico8 program designed for a playformance I originally gave in lyon in 2024 (more info on [felix-belthoise.com][www.felix-belthoise.com])
 
 Instructions :
 -> left mouse button = add an electron
@@ -20,7 +20,7 @@ The idea was to make a simple particle simulation system inspired by elementary 
 
 I chose to use pico8 because of its simple design (this is supposed to be projected to a large public, so you don't want to have a 20-windows software that would be difficult to understand for non-programers), and show that even a very limited engine such as this one can still create beautiful evolving systems on screen.
 
-The main challenge was, well, those limitions.
+The main challenge was, well, its limitations.
 
 Pico8 has only 64kb of RAM, and keeping track of multiple moving particles influencing each other quickly impacted performances.
 

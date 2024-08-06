@@ -52,7 +52,7 @@ can still create beautiful
 evolving systems on screen.
 
 the main challenge was, well,
-those limitions.
+those limitations.
 
 pico8 has only 64kb of ram,
 and keeping track of multiple
