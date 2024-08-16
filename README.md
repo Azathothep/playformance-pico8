@@ -29,6 +29,6 @@ Pico8 has only 64kb of RAM, and keeping track of multiple moving particles influ
 
 At first, with a non-optimized system, I couldn't render more than 30 particles without the program heavily slowing down. After some rework, it can now render up to 500.
 
-To accelerate execution, i decided to go for a structure- of-arrays data layout and reduce lots of unnecessary divisions. i also used approximations for some calculations (for example, instead of checking the exact distance between two particles, I only check the difference between their coordinates).
+To accelerate execution, i decided to go for a structure-of-arrays data layout and reduce lots of unnecessary divisions. I also used approximations for some calculations (for example, instead of checking the exact distance between two particles, I only check the difference between their coordinates).
 
 Don't hesitate to take a look at the code!
