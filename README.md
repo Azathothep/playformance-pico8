@@ -5,7 +5,9 @@ This is a pico8 program designed for a playformance I originally gave in lyon in
 
 Instructions :
 -> left mouse button = add an electron
+
 -> right mouse button = add a proton
+
 -> middle mouse button = add a muon
 
 -> when an electron and a proton are fusing, they create a neutron
